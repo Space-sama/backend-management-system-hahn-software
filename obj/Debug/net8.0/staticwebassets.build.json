@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nGjYJHapo48BpyCocVatsi2XxXqFovdzeX/zm7NJ3xE=",
+  "Source": "backend-management-system-api",
+  "BasePath": "_content/backend-management-system-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
